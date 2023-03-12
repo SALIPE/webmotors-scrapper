@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/INSPED/data-science/b3-finder/.idea/b3-finder.iml" filepath="D:/INSPED/data-science/b3-finder/.idea/b3-finder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../INSPED/repositories/insped-lambda-data-science/.idea/insped-lambda-data-science.iml" filepath="$PROJECT_DIR$/../../INSPED/repositories/insped-lambda-data-science/.idea/insped-lambda-data-science.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/webmotors-scrapper.iml" filepath="$PROJECT_DIR$/.idea/webmotors-scrapper.iml" />
+    </modules>
+  </component>
+</project>
